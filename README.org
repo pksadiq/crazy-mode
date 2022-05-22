@@ -3,6 +3,12 @@ code/go crazy.  Currently good support for C programming is included.
 
 crazy-mode requires ~electric-pair-mode~ to work.
 
+Source Repository: [[https://gitlab.com/sadiq/crazy-mode][GitLab]], [[https://github.com/pksadiq/crazy-mode][GitHub]]
+
+Issues and Feature Requests: [[https://gitlab.com/sadiq/crazy-mode/-/issues][GitLab]]
+
+Homepage: [[https://www.sadiqpk.org/projects/crazy-mode.html][https://www.sadiqpk.org/projects/crazy-mode.html]]
+
 * Introduction
   crazy-mode hacks around the characters you type to do various stuff often
   reducing the effort to accomplish something.
